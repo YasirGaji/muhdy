@@ -1,16 +1,16 @@
-# yasirgaji.com (version 2.0)
+# Muhdy Portfolio Website
 
-[In Progress]
+[in progress]
 
-Version 2 of my portfolio website. This time I am using [Next.js](https://nextjs.org/), [Chakra](https://chakra-ui.com/), [Framer Motion](https://www.framer.com/motion/), and [Three.js](https://threejs.org/).
+A portfolio website. this time i am using [next.js](https://nextjs.org/), [chakra](https://chakra-ui.com/), [framer motion](https://www.framer.com/motion/), and [three.js](https://threejs.org/).
 
-## Other tools/technology and libraries used
+## other tools/technology and libraries used
 
-  ##`Frontend`
+  ##`frontend`
 
-  [Framer Motion](https://www.framer.com/motion/) for animations |
+  [framer motion](https://www.framer.com/motion/) for animations |
 
-  ##`Backend`
+  ##`backend`
 
   None Yet
 
@@ -34,5 +34,5 @@ Version 2 of my portfolio website. This time I am using [Next.js](https://nextjs
   
   1. Non Yet
 
-## [View Project](https://yasirgaji2.netlify.app)
-# muhdy
+## [View Project](#)
+
