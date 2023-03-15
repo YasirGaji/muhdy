@@ -56,7 +56,7 @@ const Home: NextPage = () => {
               maxWidth="100px"
               display="inline-block"
               borderRadius="full"
-              src={useColorModeValue("/images/me.jpg", "/images/me.jpg")}
+              src="/images/me.jpg"
               alt="Yasir Gaji"
             />
             </Center>
