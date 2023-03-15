@@ -1,0 +1,40 @@
+{
+  "name": "muhdy_portfolio_website",
+  "version": "1.0.0",
+  "description": "A portfolio website",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1",
+    "dev": "next dev -h 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Yasir Gaji<yasirgaji@gmail.com>",
+  "license": "XenturyLens",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^9.0.4",
+    "next": "^13.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "three": "^0.148.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "@types/three": "^0.149.0",
+    "eslint": "^8.25.0",
+    "eslint-config-next": "^12.3.1",
+    "prettier": "^2.7.1",
+    "typescript": "4.8.4"
+  }
+}
