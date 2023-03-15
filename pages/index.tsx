@@ -68,7 +68,7 @@ const Home: NextPage = () => {
             Bio
           </Heading>
           <Paragraph>
-            I love to build and facilitate continuous improvement across all levels of products that solve problems and make people&apos;s lives easier. I&apos;m also a big fan of open source and I&apos;m always looking for ways to contribute to the community. I&apos;m currently working on a few projects and I&apos;m always open to new opportunities. If you&apos;d like to get in touch.{' '}
+          Adaptable Web and Digital Interface Designer rapidly onboards shifting user priorities to confirm up-to-date interfaces and services. Keen detector of changing user needs and integrator of required business tools. Eager to design platforms integrating both user desires and internal financial goals..{' '}
 
             <NextLink href="/projects" >
               <Link 
@@ -99,12 +99,23 @@ const Home: NextPage = () => {
           </Heading>
 
           <BioSection>
-            <BioYear>2019 - Present</BioYear>
-            Physics
+            <BioYear>2019 - NoraTech</BioYear>
+            Graphics Designer 
           </BioSection>
+
           <BioSection>
-            <BioYear>2022</BioYear>
-            Software Engineering 
+            <BioYear>2021 - Ace Finance</BioYear>
+            UI/UX Designer
+          </BioSection>
+
+          <BioSection>
+            <BioYear>2022 - Dhub Education</BioYear>
+            UI/UX Designer
+          </BioSection>
+
+          <BioSection>
+            <BioYear>2023 - Wear HighStreet</BioYear>
+            Product Designer
           </BioSection>
         </Section>
 
