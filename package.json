@@ -1,8 +1,8 @@
 {
-  "name": "yasir_portfolio_website",
-  "version": "2.0.0",
-  "description": "This is my portfolio website",
-  "main": "index.js",
+  "name": "muhdy_portfolio_website",
+  "version": "1.0.0",
+  "description": "A portfolio website",
+  "main": "index.tsx",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
