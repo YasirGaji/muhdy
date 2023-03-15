@@ -70,11 +70,11 @@ const Home: NextPage = () => {
           <Paragraph>
           Adaptable Web and Digital Interface Designer rapidly onboards shifting user priorities to confirm up-to-date interfaces and services. Keen detector of changing user needs and integrator of required business tools. Eager to design platforms integrating both user desires and internal financial goals..{' '}
 
-            <NextLink href="/projects" >
+            <NextLink href="https://www.behance.net/belloafariogun" >
               <Link 
                 color={useColorModeValue('blue.500', 'blue.300')}
               >
-                Check out my projects
+                Check out my behance
               </Link>
             </NextLink>.
           </Paragraph>
@@ -86,7 +86,7 @@ const Home: NextPage = () => {
                   rightIcon={<ChevronRightIcon />} 
                   bg="#2F0B0D" color={useColorModeValue('gray.100', 'white')}
                 >
-                  Projects
+                  Live Projects
                 </Button>
               </NextLink>
             </Center> 

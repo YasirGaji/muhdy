@@ -8,7 +8,7 @@ import { WorkGridItem } from '../components'
 import { Layout } from '../components/articles';
 
 import thumbWearhighstreet from '../public/images/wearhighstreet.png';
-import thumbXenturyLens from '../public/images/xenturylens.png';
+import thumbXenturyLens from '../public/images/dhub.png';
 
 const Projects = () => {
   return (
@@ -31,11 +31,11 @@ const Projects = () => {
 
         <Section>
           <WorkGridItem 
-            id="xenturylens" 
-            title="XenturyLens" 
+            id="dhub" 
+            title="Dhub Education" 
             thumbnail={thumbXenturyLens}
           >
-            A product as a service startup.
+            An Education Consultancy Platform.
           </WorkGridItem>
         </Section>
       </SimpleGrid>
