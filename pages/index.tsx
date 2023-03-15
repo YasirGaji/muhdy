@@ -32,15 +32,15 @@ const Home: NextPage = () => {
           mb={6} p={3} 
           textAlign="center"
         >
-          Hi, I&apos;m a geek based in Lagos / London
+          Hi, I Design
         </Box>
 
         <Box display={{md: 'flex'}}>
           <Box flexGrow={1}>
             <Heading as='h2' variant="page-title">
-              Yasir Gaji
+              Muh'd - Bello Afariogun
             </Heading>
-            <p>Software Engineer & Product Manager</p>
+            <p>UI/UX & Product Designer</p>
           </Box>
 
           <Box 

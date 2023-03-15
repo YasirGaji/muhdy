@@ -11,12 +11,7 @@ export const Logo = () => {
   return (
     <Link href="/">
         <LogoBox>
-          <Image 
-            src={logoImg}
-            alt="yasir gaji logo"
-            width={20}
-            height={20}
-          />
+          
 
           <Text
             color={useColorModeValue('black', 'white')}
@@ -24,7 +19,7 @@ export const Logo = () => {
             fontWeight="bold" ml={3}
             width="110px"
           >
-            Gàjí fún rẹ́ ẹ
+            Muhdy
           </Text>
         </LogoBox>
     </Link>

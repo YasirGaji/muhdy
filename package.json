@@ -1,12 +1,12 @@
 {
-  "name": "muhdy_portfolio_website",
-  "version": "1.0.0",
-  "description": "A portfolio website",
+  "name": "yasir_portfolio_website",
+  "version": "2.0.0",
+  "description": "This is my portfolio website",
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"error: no test specified\" && exit 1",
-    "dev": "next dev -h 0.0.0.0",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev -H 0.0.0.0",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

@@ -28,7 +28,7 @@ export const Layout = ( { children, title }:LayoutProps ) => {
         {title && (
           <Head>
             <title>
-              {title} - Yasir Gaji
+              {title} - Muhdy
             </title>
           </Head>
         )}

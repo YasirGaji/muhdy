@@ -18,7 +18,7 @@ export const MainLayout = ({ children }: Props) => {
       <Box as="main" pb={0}>
         <Head>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <title>Yasir Gaji - Home</title>
+          <title>Muhdy - Home</title>
         </Head>
 
         <Navbar path="/" href={''} props={undefined} children={undefined} />
