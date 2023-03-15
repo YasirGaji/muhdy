@@ -56,8 +56,8 @@ const Home: NextPage = () => {
               maxWidth="100px"
               display="inline-block"
               borderRadius="full"
-              src="/images/me.jpg"
-              alt="Yasir Gaji"
+              src="/images/muhdy.jpg"
+              alt="muhdy"
             />
             </Center>
           </Box>
